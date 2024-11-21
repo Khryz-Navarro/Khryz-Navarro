@@ -6,7 +6,7 @@ Hello my name is Khryz, 2nd Year College Student, <br>Currently studying at Univ
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khryz-navarro-b10b9131b/) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=vscode,linkedin,github,flutter,html,css,js,java,cs,py,cpp,mysql,ps,pr&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,linkedin,github,flutter,html,css,js,java,cs,py,cpp,mysql,ps,pr&perline=5)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Khryz-Navarro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Khryz-Navarro&theme=dark&hide_border=false)<br/>
