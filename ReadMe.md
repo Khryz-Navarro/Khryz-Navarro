@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello my name is Khryz 2nd Year College Student<br>Currently studying at University of Southern Mindanao</br>taking the course Bachelor of Science in Information Systems
+Hello my name is Khryz 2nd Year College Student<br>Currently studying at University of Southern Mindanao</br>Taking the course Bachelor of Science in Information Systems
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@ Hello my name is Khryz 2nd Year College Student<br>Currently studying at Univers
 ![](https://github-readme-stats.vercel.app/api?username=Khryz-Navarro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Khryz-Navarro&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khryz-Navarro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Khryz-Navarro&icon=0&color=0)](https://visitcount.itsvg.in)
