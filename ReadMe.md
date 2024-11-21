@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello my name is Khryz 2nd Year College Student<br>Currently studying at University of Southern Mindanao</br><br>taking the course Bachelor of Science in Information Systems</br>
+Hello my name is Khryz 2nd Year College Student<br>Currently studying at University of Southern Mindanao</br>taking the course Bachelor of Science in Information Systems
 
 
 ## 🌐 Socials:
