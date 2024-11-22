@@ -3,7 +3,7 @@ Hello my name is Khryz 2nd Year College Student<br>Currently studying at Univers
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khryz-navarro-b10b9131b/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khryz-navarro-b10b9131b/) 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,cs,py,flutter,mysql,ps,pr&perline=5)](https://skillicons.dev)
