@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello my name is Khryz 3rd Year College Student<br>Currently studying at University of Southern Mindanao</br>Taking the course Bachelor of Science in Information Systems
+FULL STACK/ MOBILE DEVELOPER
+3rd YEAR INFORMATION SYSTEMS
 
 
 ## 🌐 Socials:
