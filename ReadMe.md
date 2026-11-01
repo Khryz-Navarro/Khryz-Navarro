@@ -10,7 +10,7 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
 <img alt="Figma" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff" />
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" />
-<a href="https://www.linkedin.com/in/khryz-navarro-5abb4b398/"><img alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkhryz-navarro-5abb4b398%2F" /></a>
+<img alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkhryz-navarro-5abb4b398%2F" /></a>
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" />
 <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=ffffff" />
@@ -39,10 +39,12 @@
 
 <h1 align="center">🌐 Socials 🍬</h1>
 
-[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=ffffff&link=https%3A%2F%2Fwww.facebook.com%2Fnavarro.khryz)](https://www.facebook.com/navarro.khryz)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=ffffff&link=https%3A%2F%2Fwww.youtube.com%2F%40khryznavarro1521)](https://www.youtube.com/@khryznavarro1521)
-[![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=ffffff&link=https%3A%2F%2Fwww.instagram.com%2Fkriiz.exe%2F)](https://www.instagram.com/kriiz.exe/)
-[![linkedin](https://img.shields.io/badge/linkedin-0084ff?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkhryz-navarro-5abb4b398%2F)](https://www.linkedin.com/in/khryz-navarro-5abb4b398/)
+<p align="center">
+<a href="https://www.facebook.com/navarro.khryz" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=ffffff" /></a>
+<a href="https://www.youtube.com/@khryznavarro1521" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=ffffff" /></a>
+<a href="https://www.instagram.com/kriiz.exe/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=ffffff" /></a>
+<a href="https://www.linkedin.com/in/khryz-navarro-5abb4b398/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0084FF?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
+</p>
 
 # 📊Github Stats:
 
