@@ -2,6 +2,11 @@
 </h1>
 <p align="center">A Full Stack Web Developer 🔥</p>
 <p align="center">
+Full stack developer and 4th-year Information Systems student focused on building scalable, maintainable, and user-centered web applications.
+Experienced in delivering end-to-end solutions, from UI/UX design in Figma and responsive front ends in React, Next.js, and Vue, to RESTful back ends with Node.js and Laravel backed by MySQL, MongoDB, and Supabase.
+Open to internships, freelance projects, and collaboration opportunities.
+</p>
+<p align="center">
 <h1 align="center">💻Tech Stack⚡</h1>  
 <div align="center">
 <p>
@@ -42,7 +47,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=ffffff&link=https%3A%2F%2Fwww.facebook.com%2Fnavarro.khryz)](https://www.facebook.com/navarro.khryz)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=ffffff&link=https%3A%2F%2Fwww.youtube.com%2F%40khryznavarro1521)](https://www.youtube.com/@khryznavarro1521)
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=ffffff&link=https%3A%2F%2Fwww.instagram.com%2Fkriiz.exe%2F)](https://www.instagram.com/kriiz.exe/)
-[![linkedin](https://img.shields.io/badge/linkedin-0084ff?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkhryz-navarro-5abb4b398%2F)](https://www.linkedin.com/in/khryz-navarro-5abb4b398/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uNjM3IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAxIDEgMC00LjEyNSAyLjA2MiAyLjA2MiAwIDAgMSAwIDQuMTI1ek03LjExOSAyMC40NTJIMy41NTVWOWgzLjU2NHpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMHoiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/khryz-navarro-5abb4b398/)
 
 # 📊Github Stats:
 
