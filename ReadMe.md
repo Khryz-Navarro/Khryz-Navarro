@@ -18,6 +18,8 @@ Open to internships, freelance projects, and collaboration opportunities.
 <img alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkhryz-navarro-5abb4b398%2F" />
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" />
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=ffffff" />
+<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=ffffff" />
 <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=ffffff" />
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" />
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=ffffff" />
@@ -58,12 +60,6 @@ Open to internships, freelance projects, and collaboration opportunities.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khryz-Navarro/Khryz-Navarro/output/github-snake.svg" />
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Khryz-Navarro/Khryz-Navarro/output/github-snake.svg" />
 </picture>
-
-# 📊Github Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Khryz-Navarro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Khryz-Navarro&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khryz-Navarro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=Khryz-Navarro&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=Khryz-Navarro)
